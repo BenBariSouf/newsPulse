@@ -1,0 +1,182 @@
+[
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/02_feb/24_thu/img_1645715509672_717.jpg?",
+		"label": "Russia-Ukraine Conflict",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/02_feb/24_thu/img_1645715515615_960.jpg?",
+		"priority": 0,
+		"relevanceTag": "",
+		"topic": "Russia-Ukraine_Conflict",
+		"type": "CUSTOM_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/07_jul/24_mon/img_1690197598447_340.jpg?",
+		"label": "Asian Games 2022",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/07_jul/24_mon/img_1690197611836_769.jpg?",
+		"priority": 1,
+		"relevanceTag": "",
+		"topic": "Asian_Games_2022",
+		"type": "CUSTOM_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/09_sep/22_fri/img_1695387611614_1.jpg?",
+		"label": "ODI World Cup 2023",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/09_sep/22_fri/img_1695387620559_104.jpg?",
+		"priority": 2,
+		"relevanceTag": "",
+		"topic": "ODI_World_Cup_2023",
+		"type": "CUSTOM_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/07_jul/24_mon/img_1690197554935_490.jpg?",
+		"label": "Asia Cup 2023",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/07_jul/24_mon/img_1690197561010_927.jpg?",
+		"priority": 3,
+		"relevanceTag": "",
+		"topic": "Asia_Cup_2023",
+		"type": "CUSTOM_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624460796166_669.jpg?",
+		"label": "India",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624460827623_476.jpg?",
+		"priority": 4,
+		"relevanceTag": "national",
+		"topic": "national",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624461180685_722.jpg?",
+		"label": "Business",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624461205590_207.jpg?",
+		"priority": 5,
+		"relevanceTag": "business",
+		"topic": "business",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464346448_194.jpg?",
+		"label": "Politics",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464357812_284.jpg?",
+		"priority": 6,
+		"relevanceTag": "politics",
+		"topic": "politics",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464513890_381.jpg?",
+		"label": "Sports",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464524799_428.jpg?",
+		"priority": 7,
+		"relevanceTag": "sports",
+		"topic": "sports",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464616755_571.jpg?",
+		"label": "Technology",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464628080_673.jpg?",
+		"priority": 8,
+		"relevanceTag": "technology",
+		"topic": "technology",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464736209_126.jpg?",
+		"label": "Startups",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464749741_797.jpg?",
+		"priority": 9,
+		"relevanceTag": "startup",
+		"topic": "startup",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464945012_439.jpg?",
+		"label": "Entertainment",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624464960312_760.jpg?",
+		"priority": 10,
+		"relevanceTag": "entertainment",
+		"topic": "entertainment",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624465194688_14.jpg?",
+		"label": "Hatke",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624465211069_50.jpg?",
+		"priority": 11,
+		"relevanceTag": "hatke",
+		"topic": "hatke",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624465494460_113.jpg?",
+		"label": "International",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624465507933_989.jpg?",
+		"priority": 12,
+		"relevanceTag": "world",
+		"topic": "world",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624473275174_615.jpg?",
+		"label": "Automobile",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624473291258_753.jpg?",
+		"priority": 13,
+		"relevanceTag": "automobile",
+		"topic": "automobile",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624473418833_711.jpg?",
+		"label": "Science",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624473431544_224.jpg?",
+		"priority": 14,
+		"relevanceTag": "science",
+		"topic": "science",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624473623614_109.jpg?",
+		"label": "Travel",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624473635509_808.jpg?",
+		"priority": 15,
+		"relevanceTag": "travel",
+		"topic": "travel",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624473770881_504.jpg?",
+		"label": "Miscellaneous",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624473790161_809.jpg?",
+		"priority": 16,
+		"relevanceTag": "miscellaneous",
+		"topic": "miscellaneous",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624474338098_484.jpg?",
+		"label": "Fashion",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/06_jun/23_wed/img_1624474350461_453.jpg?",
+		"priority": 17,
+		"relevanceTag": "fashion",
+		"topic": "fashion",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2020/04_apr/30_thu/img_1588275145464_872.jpg?",
+		"label": "Education",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2020/04_apr/30_thu/img_1588275163252_612.jpg?",
+		"priority": 18,
+		"relevanceTag": "education",
+		"topic": "education",
+		"type": "NEWS_CATEGORY"
+	},
+	{
+		"imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2020/12_dec/26_sat/img_1608994151293_594.jpg?",
+		"label": "Health & Fitness",
+		"nightImageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2020/12_dec/26_sat/img_1608994174641_565.jpg?",
+		"priority": 19,
+		"relevanceTag": "health_and_fitness",
+		"topic": "Health___Fitness",
+		"type": "NEWS_CATEGORY"
+	}
+]
